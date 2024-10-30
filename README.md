@@ -28,3 +28,61 @@ Here are some ideas to get you started:
 - Constantly learning and improving 🚀
 
 💡 **Always up for project collaborations, new ideas, or just tech talk!**
+
+<br/>
+
+### Toolset
+
+<table>
+    <tr>
+        <td>Programming Languages</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/kotlin/kotlin-original.svg" width="30" height="30"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/java/java-original.svg" width="30" height="30"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="30" height="30"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg" width="30" height="30"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Databases</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="30" height="30"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/oracle/oracle-original.svg" width="30" height="30"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Frameworks</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/android/android-original.svg" width="30" height="30"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/django/django-original.svg" width="30" height="30"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/express/express-original-wordmark.svg" width="30" height="30"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Testing</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/junit/junit-original-wordmark.svg" width="30" height="30"/></a>
+            <a href=""><img src="https://mockk.io/doc/logo-site.png" width="50" height="25"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>IDE</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/androidstudio/androidstudio-original.svg" width="30" height="30"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg" width="30" height="30"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" width="30" height="30"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Others</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/gradle/gradle-plain.svg" width="30" height="30"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="30" height="30"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" height="30"/></a>
+            <!-- <a href=""><img src=""/></a> -->
+        </td>
+    </tr>
+</table>
+
+
+<br/>

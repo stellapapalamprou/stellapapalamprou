@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hey there! I’m Stella
-👩🏻‍💻 **Aspiring Software Engineer** | 📚 Former Quality Manager | 🎓 MSc in Computer Science
+👩🏻‍💻 **Software Engineer** | 📚 Former Quality Manager | 🎓 MSc in Computer Science
 
 ---
 
